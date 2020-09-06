@@ -2,7 +2,7 @@
 // in Go Data Structures and algorithms book
 package main
 
-// importing fmt and errors packages
+// importing fmt and errors packages.
 
 import(
 	"fmt"
